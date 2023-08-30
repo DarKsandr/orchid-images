@@ -1,6 +1,3 @@
-# About
-Working with pictures for the Orchid admin panel
-
 # Example use
 ## Default
 ```
