@@ -1,3 +1,7 @@
+# Install
+```
+composer require darksandr/orchid-images
+```
 # Example use
 ## Default
 ```
